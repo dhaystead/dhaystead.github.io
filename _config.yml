@@ -20,7 +20,7 @@
 
 title: Duncan Haystead
 email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   Math and Sundry
 baseurl: "dhaystead.github.io" # the subpath of your site, e.g. /blog
 url: "/dhaystead" # the base hostname & protocol for your site, e.g. http://example.com
