@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://dhaystead.github.io/sitemap.xml
