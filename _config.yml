@@ -23,8 +23,8 @@ title: Duncan Haystead
 description: Personal website
 
 # Cadre settins
-navbar_img: assets/images/logo.png
-favicon_img: assets/images/favicon.png
+# navbar_img: assets/images/logo.png
+# favicon_img: assets/images/favicon.png
 about: Math & Sundry
 exclude_powered_by: false
 google-analytics: UA-187962435-1
